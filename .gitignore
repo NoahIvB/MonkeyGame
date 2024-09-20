@@ -72,3 +72,36 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Stylized_PBR_Nature/Foliage/Textures/T_Clover_D.uasset
+Content/Stylized_PBR_Nature/Foliage/Materials/MI_Pine_Trunk.uasset
+Content/Stylized_PBR_Nature/Foliage/Materials/MI_Pine_Tree_Leaves.uasset
+Content/Stylized_PBR_Nature/Foliage/Materials/MI_Grass.uasset
+Content/Stylized_PBR_Nature/Foliage/Materials/MI_Fern.uasset
+Content/Stylized_PBR_Nature/Foliage/Materials/MI_Common_Tree_Leaves.uasset
+Content/Stylized_PBR_Nature/Foliage/Materials/MI_Common_Tree_11.uasset
+Content/Stylized_PBR_Nature/Foliage/Materials/MI_Common_Tree_10.uasset
+Content/Stylized_PBR_Nature/Foliage/Materials/MI_Common_Tree_09.uasset
+Content/Stylized_PBR_Nature/Foliage/Materials/MI_Common_Tree_08.uasset
+Content/Stylized_PBR_Nature/Foliage/Materials/MI_Common_Tree_07.uasset
+Content/Stylized_PBR_Nature/Foliage/Materials/MI_Common_Tree_06.uasset
+Content/Stylized_PBR_Nature/Foliage/Materials/MI_Common_Tree_05.uasset
+Content/Stylized_PBR_Nature/Foliage/Materials/MI_Common_Tree_04.uasset
+Content/Stylized_PBR_Nature/Foliage/Materials/MI_Common_Tree_03.uasset
+Content/Stylized_PBR_Nature/Foliage/Materials/MI_Common_Tree_02.uasset
+Content/Stylized_PBR_Nature/Foliage/Materials/MI_Common_Tree_01.uasset
+Content/Stylized_PBR_Nature/Foliage/Materials/MI_Clover.uasset
+Content/Stylized_PBR_Nature/Foliage/Materials/MI_Bush.uasset
+Content/Stylized_PBR_Nature/Foliage/Materials/M_Tree_Trunk_Master.uasset
+Content/Stylized_PBR_Nature/Foliage/Materials/M_Foliage_Master.uasset
+Content/Stylized_PBR_Nature/Foliage/FoliageTypes/SM_Pine_Tree_4_FoliageType.uasset
+Content/Stylized_PBR_Nature/Foliage/FoliageTypes/SM_Pine_Tree_3_FoliageType.uasset
+Content/Stylized_PBR_Nature/Foliage/FoliageTypes/SM_Pine_Tree_2_FoliageType.uasset
+Content/Stylized_PBR_Nature/Foliage/FoliageTypes/SM_Pine_Tree_1_FoliageType.uasset
+Content/Stylized_PBR_Nature/Foliage/FoliageTypes/SM_Grass_FoliageType.uasset
+Content/Stylized_PBR_Nature/Foliage/FoliageTypes/SM_Fern_FoliageType.uasset
+Content/Stylized_PBR_Nature/Foliage/FoliageTypes/SM_Common_Tree_11_FoliageType.uasset
+Content/Stylized_PBR_Nature/Foliage/FoliageTypes/SM_Common_Tree_10_FoliageType.uasset
+Content/Stylized_PBR_Nature/Foliage/FoliageTypes/SM_Common_Tree_08_FoliageType.uasset
+Content/Stylized_PBR_Nature/Foliage/FoliageTypes/SM_Common_Tree_07_FoliageType.uasset
+Content/Stylized_PBR_Nature/Foliage/FoliageTypes/SM_Common_Tree_03_FoliageType.uasset
+Content/Stylized_PBR_Nature/Foliage/FoliageTypes/SM_Common_Tree_01_FoliageType.uasset
